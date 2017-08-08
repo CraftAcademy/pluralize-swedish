@@ -114,4 +114,3 @@ class PluralizeSwedish::Inflections < ::ActiveSupport::Inflector::Inflections
     end
   end
 end
-
